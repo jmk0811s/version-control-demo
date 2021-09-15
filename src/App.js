@@ -6,7 +6,7 @@ import ClassPage from "./components/ClassPage";
 import FormExample from "./components/FormExample";
 import ShowList from "./components/ShowList";
 
-//test
+//test2
 
 const NoMatch = ({location}) => (
     <div>
