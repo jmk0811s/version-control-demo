@@ -12,6 +12,9 @@ const NoMatch = ({location}) => (
         <div>
             <code>{location.pathname}</code>
         </div>
+		<div>
+			<p style="background-color:cyan;">Some text here</p>
+		</div>
     </div>
 );
 
